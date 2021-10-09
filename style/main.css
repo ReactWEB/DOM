@@ -1,0 +1,15 @@
+.red{
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid red;
+  cursor: pointer;
+}
+
+.orange{
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid orange;
+  cursor: pointer;
+}
